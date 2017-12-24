@@ -2,8 +2,11 @@
 SmartThings Blink Camera System integration to enable Motion Detection
 
 **************************** DISCLAIMER ****************************
+
 THIS DEVICE HANDLER CAN NOT GUARANTEE PERFORMANCE WITH THE BLINK
+
 SENSOR.  NO GUARANTEE OF PERFORMANCE FOR ANY USAGE IS PROVIDED.
+
 **************************** DISCLAIMER ****************************
 
 This series of device handlers enable the Blink Camera motion detectors for use in SmartThings for alerts, etc.  It is intended as a stop-gap measure since the original integration was deleted.  
